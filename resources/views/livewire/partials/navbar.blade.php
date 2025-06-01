@@ -65,9 +65,6 @@
                 <a class="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-700" wire:navigate href="/my-orders">
                   My Orders
                 </a>
-                <a class="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-700" href="#">
-                  My Account
-                </a>
                 <a class="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-700" href="/logout">
                   Logout
                 </a>
