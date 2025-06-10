@@ -13,7 +13,7 @@ use Livewire\Attributes\Url;
 use Livewire\Component;
 use Livewire\WithPagination;
 
-#[Title('Products Page - SembakoHub')]
+#[Title('Products Page - Rupa')]
 class ProductsPage extends Component
 {
     use WithPagination;
@@ -30,7 +30,7 @@ class ProductsPage extends Component
     public $on_sale;
 
     #[Url]
-    public $price_range = 300000;
+    public $price_range = 2500000;
 
     #[Url]
     public $sort = 'latest';
