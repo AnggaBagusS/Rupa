@@ -49,8 +49,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal And
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/AnggaBagusS/final.git](https://github.com/AnggaBagusS/final.git)
-    cd final
+    git clone https://github.com/AnggaBagusS/Rupa.git
     ```
 
 2.  **Install Dependencies (PHP & Node)**
